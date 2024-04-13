@@ -375,7 +375,7 @@ def MultipleLinearRegression():
     
 
 
-#st.sidebar.header("Created by Tanu Maurya ✨")
+st.sidebar.header("Created by Tanu Maurya ✨")
 
 choice = st.sidebar.selectbox('Menu', ['Simple Linear Regression', 'Multiple Linear Regression'])
 
